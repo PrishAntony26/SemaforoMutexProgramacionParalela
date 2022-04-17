@@ -97,14 +97,6 @@ public class Vista extends javax.swing.JFrame {
 
         jLabel4.setText("Password");
 
-        jTextServer.setText("www.peru-software.com");
-
-        jTextPort.setText("21");
-
-        jTextUser.setText("pp20172@peru-software.com");
-
-        jTextPassword.setText("fisi20172");
-
         jButton1.setText("Download");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -113,8 +105,6 @@ public class Vista extends javax.swing.JFrame {
         });
 
         jLabel5.setText("Save file to: ");
-
-        jTextSave.setText("C:/Users/DOMINGUEZ/Desktop/UNMSM/Ciclo7_Verano/ProgramacionParalela/Semana11/Archivos");
 
         jLabel6.setText("Subproceso 1");
 
